@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+.norbs {
+  background-image: var(--bs-gradient);
+  background-color: rgba(252, 247, 208, 1);
+}
